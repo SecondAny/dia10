@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+.aviso{
+    font-size: 3rem;
+    background-color: antiquewhite;
+}
+
+.fala{
+    font-size: 3rem;
+    background-color: azure;
+}
+
+.dias{
+    font-size: 5rem;
+    background-color: beige;
+}
